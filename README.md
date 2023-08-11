@@ -1,4 +1,4 @@
-**Decode Java Program**
+Decode Java Program
 
 This is a Java program that decodes a Base64-encoded string and prints the decoded text to the console.
 Usage
